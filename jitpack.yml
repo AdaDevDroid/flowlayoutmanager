@@ -1,0 +1,5 @@
+java:
+  version: 17
+
+jdk:
+  - openjdk17
